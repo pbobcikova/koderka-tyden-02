@@ -15,6 +15,10 @@ body {
 	viditelná u horního okraje okna prohlížeče
 	a obsah stránky skroloval pod ní
 	*/
+position:fixed;
+top:0;
+left:0;
+width:100%
 
 }
 
@@ -25,8 +29,10 @@ body {
 	a obsah stránky skroloval pod ní
 	*/
 
-
-}
+position:fixed;
+left:0;
+bottom:0;
+width:100%}
 
 .obsah {
 	/*
@@ -34,7 +40,8 @@ body {
 	nebyl zakrytý hlavičkou a patičkou
 	*/
 
-
+margin-top:90px;
+margin-bottom:90px
 }
 
 

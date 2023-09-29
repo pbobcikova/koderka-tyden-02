@@ -22,3 +22,10 @@ body {
  tmava      #34495e
 */
 
+.menu {background-color:lightblue;    padding:0;
+    margin:0}
+    .menu li {display:inline-block;
+}
+.menu a {text-decoration:none;
+padding:30px;
+display:inline-block}

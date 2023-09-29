@@ -1,6 +1,5 @@
 
 .relative {
     /* zde dopiš relativní pozicování prostředniho obdélníku  */
-
-
+position: relative; left:50px
 }

@@ -4,12 +4,14 @@
     co musi mit nastaveno rodic,
     aby v ramci nej fungovalo absolutni pozicovani?
     */
-
+position:relative
 }
 
 .potomek {
     /* zde dopis absolutni pozicovani potomka */
-
+position:absolute;
+right:0;
+bottom:0
 }
 
 
