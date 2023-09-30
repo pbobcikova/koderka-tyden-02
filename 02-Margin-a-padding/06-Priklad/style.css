@@ -5,3 +5,18 @@ body {
 }
 
 /* -------------------------------- */
+.box
+{box-sizing:border-box;
+width:600px;
+border:10px solid black;
+background-color: rgb(74, 74, 228);
+margin-left:auto;
+margin-right:auto;
+margin-top:50px;padding:30px;
+}
+h1{padding-top:30px;
+	padding-bottom:20px; margin:0}
+.odstavec1{padding:20px,30px;}
+.odstavec2{padding-top:20px;
+	padding-bottom:30px
+}

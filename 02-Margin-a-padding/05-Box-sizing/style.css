@@ -31,10 +31,10 @@ html {
 }
 
 
-.contentbox {
+.contentbox { width:600px;
 
 }
 
-.borderbox {
+.borderbox {box-sizing:border-box; width:600px
 
 }
